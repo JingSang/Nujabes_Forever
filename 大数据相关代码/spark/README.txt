@@ -1,0 +1,3 @@
+newtags   我在界面新闻实习时写的按照一定规则进行推荐的项目
+KafkaDemo  我在北京水象实习时测试连接cdh集成kerberos后访问hive,impala,kafka
+sparkDemo  sparkWordCount
